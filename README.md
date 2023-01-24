@@ -6,7 +6,7 @@
 
 ### 使用方式
 
-1. 在 [Release](/releases) 页面下载编译好的程序。
+1. 在 [Release](../../releases) 页面下载编译好的程序。
 
    出于安全性考虑，提供了两种版本，其中，`Xshell7_Xftp7_Mod_UAC.exe` 默认请求了管理员权限，而 `Xshell7_Xftp7_Mod_NoUAC.exe` 支持以普通用户身份运行。
 
